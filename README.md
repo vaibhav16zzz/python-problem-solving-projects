@@ -1,38 +1,31 @@
 # python-problem-solving-projects
 Logic-based Python console applications focused on real-world problem solving and structured decision systems.
 
-# Bike Fuel Efficiency & Cost Analyzer
+## Bike Fuel Efficiency & Cost Analyzer
 
-A logic-driven Python console application designed to analyze real-world bike performance and running cost metrics.
+A Python program that analyzes bike fuel efficiency and running cost based on user ride data.
 
-## 🚀 Overview
-
-This project calculates and evaluates fuel efficiency based on user-provided ride data and engine specifications.
-
-It transforms raw inputs into meaningful performance insights.
-
----
-
-## 🔍 What It Does
-
-- Calculates **actual mileage (km/l)**
-- Computes **total fuel cost**
-- Determines **cost per kilometer**
+### Features
+- Calculates actual mileage (km/l)
+- Computes total fuel cost
+- Determines cost per kilometer
 - Classifies bike category based on engine power (cc)
-- Compares actual mileage with expected ideal range
-- Evaluates efficiency status
-- Provides maintenance suggestion
-- Recommends ideal speed range for optimal efficiency
+- Compares actual mileage with expected efficiency range
+- Provides efficiency evaluation and basic suggestions
+
+Built as a logic-based Python practice project focused on real-world data analysis.
 
 ---
 
-## 🧠 Core Logic Applied
+## Profile Validator
 
-- Conditional decision systems  
-- Logical range comparisons  
-- Real-world mathematical formula implementation  
-- Structured output analysis  
+A simple Python program that validates basic user profile details using predefined rules.
 
----
+### Validations
+- Username (4–10 characters)
+- Password (minimum 8 characters)
+- Mobile number (exactly 10 digits)
+- Age (18–120)
+- Gender (Male / Female / Other)
 
-Consistent learning. Practical implementation. Continuous improvement.
+The program verifies each input step-by-step and displays an error if any validation fails. If all inputs are valid, the profile is successfully created and the entered details are displayed.
