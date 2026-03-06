@@ -32,4 +32,4 @@ The program verifies each input step-by-step and displays an error if any valida
 
 ---
 
-Created by :**Vaibhav Kale
+Created by : Vaibhav Kale
